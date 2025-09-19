@@ -1,82 +1,39 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1e7e34&height=130&section=header)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=1e7e34&height=130&section=header) 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=2F8735D9&background=FFFFFF00&width=435&lines=J%C3%BAlia+Sander+Freitas" alt="Typing SVG" />
-  </a>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGo2c255cGJwa2hhdzR3NWFlaTN3d3Z5YzE3bXBwOHhwN241aDV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LQoL4nHVLzhw2YXMU6/giphy.gif" alt="Cachorrinho fofo" width="80px" />
-</div>
+<p align="right">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGo2c255cGJwa2hhdzR3NWFlaTN3d3Z5YzE3bXBwOHhwN241aDV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LQoL4nHVLzhw2YXMU6/giphy.gif" 
+       alt="Cachorrinho fofo" 
+       width="90px" />
+</p>
 
-<table>
-  <tr>
-    <!-- Coluna do texto -->
-    <td>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=2F8735D9&background=FFFFFF00&width=435&lines=J%C3%BAlia+Sander+Freitas)](https://git.io/typing-svg) 
 
-## oi. 
+
+### <img  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azVhbGpmdXg3eXRyYXJpZXk1cGoyOWN3amNyeXgwNm5wdDMzdmN3dyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/xd22iKsu0Wn0Q/giphy.gif" alt="Cachorrinho fofo" width="40px"/> oi, eu sou a julia 
+
 `dev fullstack?`
 > Estudante de Ciência da Computação na UFES  
-> Apaixonada por dados, código limpo e desafios
+> gosto muito de imaginar as coisas na telinha e ir pensando em como por isso em código.
 
 ## 
-- 💻 Estudo e faço projetos em **Java, Python e Análise de Dados**  
-- 📊 Adoro explorar **datasets mistos** e resolver problemas de forma criativa  
-- 🐶 Amante de pets (tenho uma dachshund maravilhosa!)
+Atualmente, estou focando na faculdade e no desenvolvimento das minhas habilidades por conta própria. Tenho dedicado meu tempo a estudar e criar projetos utilizando Java, Python e HTML/CSS, buscando sempre aprimorar meus conhecimentos e habilidades, explorando novas tecnologias e tentando aplicar a teoria na prática.
 
-🔍 **Áreas de Interesse**  
-- Desenvolvimento de software  
-- Análise de dados  
-- Estrutura de algoritmos e funções polinomiais  
-- Automação de processos
 
-### Linguagens 
-<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtqaDNmN29iOW0yaWtseGd6dWgwcDJhcm9qanh2Z293bzJtdnl3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gkF6liG22AYbJ2ZktC/giphy.gif" alt="Cachorrinho fofo" width="35px" /> Principais linguagens e Tecnologias
+<p align="center">
+<img alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="HTML5" width="45px" src="https://skillicons.dev/icons?i=html" />
+<img alt="CSS3" width="45px" src="https://skillicons.dev/icons?i=css" />
+<img alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="GitHub" width="45px" src="https://skillicons.dev/icons?i=github" />
+<img alt="Figma" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</p>
 
 
 
-#### FrameWorks e Ferramentas
-<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+## ☎️ Contato 
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanderjulia119@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuariowww.linkedin.com/in/júlia-sander-872341294)
 
-
-### Em evolução
-<img align="left" alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="SQL" width="40px" src="https://img.icons8.com/ios-filled/50/000000/sql.png" />
-
-  </td>
-
-  <td>
-
-<img src="/verdinha.jpeg" alt="Minha imagem" width="200px" />
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGo2c255cGJwa2hhdzR3NWFlaTN3d3Z5YzE3bXBwOHhwN241aDV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LQoL4nHVLzhw2YXMU6/giphy.gif" alt="Cachorrinho fofo" width="150px" />
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtqaDNmN29iOW0yaWtseGd6dWgwcDJhcm9qanh2Z293bzJtdnl3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gkF6liG22AYbJ2ZktC/giphy.gif" alt="Cachorrinho fofo" width="150px" />
-
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azVhbGpmdXg3eXRyYXJpZXk1cGoyOWN3amNyeXgwNm5wdDMzdmN3dyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/xd22iKsu0Wn0Q/giphy.gif" alt="Cachorrinho fofo" width="150px" />
-
-  </td>
-  </tr>
-</table>
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=130&section=footer)
-
-<!--
-**julia-sander/julia-sander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
