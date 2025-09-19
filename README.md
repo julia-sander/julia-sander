@@ -1,13 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1e7e34&height=130&section=header) 
 
-<p align="right">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGo2c255cGJwa2hhdzR3NWFlaTN3d3Z5YzE3bXBwOHhwN241aDV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LQoL4nHVLzhw2YXMU6/giphy.gif" 
-       alt="Cachorrinho fofo" 
-       width="90px" />
-</p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=2F8735D9&background=FFFFFF00&width=435&lines=J%C3%BAlia+Sander+Freitas)](https://git.io/typing-svg) 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=2F8735D9&background=FFFFFF00&width=435&lines=bem+vindo!)](https://git.io/typing-svg) <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGo2c255cGJwa2hhdzR3NWFlaTN3d3Z5YzE3bXBwOHhwN241aDV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LQoL4nHVLzhw2YXMU6/giphy.gif" 
+       alt="Cachorrinho fofo" width="80px">
 
 ### <img  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azVhbGpmdXg3eXRyYXJpZXk1cGoyOWN3amNyeXgwNm5wdDMzdmN3dyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/xd22iKsu0Wn0Q/giphy.gif" alt="Cachorrinho fofo" width="40px"/> oi, eu sou a julia 
 
