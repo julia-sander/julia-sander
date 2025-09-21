@@ -13,7 +13,7 @@
 Atualmente, estou focando na faculdade e no desenvolvimento das minhas habilidades por conta própria. Tenho dedicado meu tempo a estudar e criar projetos utilizando Java, Python e HTML/CSS, buscando sempre aprimorar meus conhecimentos e habilidades, explorando novas tecnologias e tentando aplicar a teoria na prática.
 
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtqaDNmN29iOW0yaWtseGd6dWgwcDJhcm9qanh2Z293bzJtdnl3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gkF6liG22AYbJ2ZktC/giphy.gif" alt="Cachorrinho fofo" width="35px" /> Principais linguagens e Tecnologias
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtqaDNmN29iOW0yaWtseGd6dWgwcDJhcm9qanh2Z293bzJtdnl3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gkF6liG22AYbJ2ZktC/giphy.gif" alt="Cachorrinho fofo" width="25px" /> Principais Linguagens e Tecnologias
 <p align="center">
 <img alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img alt="HTML5" width="45px" src="https://skillicons.dev/icons?i=html" />
