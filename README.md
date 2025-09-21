@@ -26,8 +26,9 @@ Atualmente, estou focando na faculdade e no desenvolvimento das minhas habilidad
 
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julia-sander&show_icons=true&theme=shadow_green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-sander&layout=compact&hide_title=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julia-sander&show_icons=true&theme=transparent&icon_color=40c463&title_color=1e6823&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-sander&layout=compact&theme=transparent&hide_title=false&custom_title=Tecnologias&title_color=1e6823)
+
 
 ---
 ### ☎️ Contato 
